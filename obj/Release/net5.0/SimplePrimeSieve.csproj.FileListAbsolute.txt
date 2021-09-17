@@ -1,0 +1,16 @@
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/bin/Release/net5.0/SimplePrimeSieve
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/bin/Release/net5.0/SimplePrimeSieve.deps.json
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/bin/Release/net5.0/SimplePrimeSieve.runtimeconfig.json
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/bin/Release/net5.0/SimplePrimeSieve.runtimeconfig.dev.json
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/bin/Release/net5.0/SimplePrimeSieve.dll
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/bin/Release/net5.0/ref/SimplePrimeSieve.dll
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/bin/Release/net5.0/SimplePrimeSieve.pdb
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/obj/Release/net5.0/SimplePrimeSieve.csproj.AssemblyReference.cache
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/obj/Release/net5.0/SimplePrimeSieve.GeneratedMSBuildEditorConfig.editorconfig
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/obj/Release/net5.0/SimplePrimeSieve.AssemblyInfoInputs.cache
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/obj/Release/net5.0/SimplePrimeSieve.AssemblyInfo.cs
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/obj/Release/net5.0/SimplePrimeSieve.csproj.CoreCompileInputs.cache
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/obj/Release/net5.0/SimplePrimeSieve.dll
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/obj/Release/net5.0/ref/SimplePrimeSieve.dll
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/obj/Release/net5.0/SimplePrimeSieve.pdb
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/obj/Release/net5.0/SimplePrimeSieve.genruntimeconfig.cache

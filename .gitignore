@@ -7,3 +7,15 @@ bin/Debug/net5.0/SimplePrimeSieve.runtimeconfig.json
 bin/Debug/net5.0/ref/SimplePrimeSieve.dll
 .vscode/launch.json
 .vscode/tasks.json
+bin/Release/net5.0/SimplePrimeSieve
+bin/Release/net5.0/SimplePrimeSieve.deps.json
+bin/Release/net5.0/SimplePrimeSieve.dll
+bin/Release/net5.0/SimplePrimeSieve.pdb
+bin/Release/net5.0/SimplePrimeSieve.runtimeconfig.dev.json
+bin/Release/net5.0/SimplePrimeSieve.runtimeconfig.json
+bin/Release/net5.0/publish/SimplePrimeSieve
+bin/Release/net5.0/publish/SimplePrimeSieve.deps.json
+bin/Release/net5.0/publish/SimplePrimeSieve.dll
+bin/Release/net5.0/publish/SimplePrimeSieve.pdb
+bin/Release/net5.0/publish/SimplePrimeSieve.runtimeconfig.json
+bin/Release/net5.0/ref/SimplePrimeSieve.dll

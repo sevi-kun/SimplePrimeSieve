@@ -1,0 +1,5 @@
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/bin/Release/net5.0/publish/SimplePrimeSieve
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/bin/Release/net5.0/publish/SimplePrimeSieve.dll
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/bin/Release/net5.0/publish/SimplePrimeSieve.deps.json
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/bin/Release/net5.0/publish/SimplePrimeSieve.runtimeconfig.json
+/home/belar/Code/dotnet/csharp/SimplePrimeSieve/bin/Release/net5.0/publish/SimplePrimeSieve.pdb
