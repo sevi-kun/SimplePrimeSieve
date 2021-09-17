@@ -1,0 +1,9 @@
+bin/Debug/net5.0/SimplePrimeSieve
+bin/Debug/net5.0/SimplePrimeSieve.deps.json
+bin/Debug/net5.0/SimplePrimeSieve.dll
+bin/Debug/net5.0/SimplePrimeSieve.pdb
+bin/Debug/net5.0/SimplePrimeSieve.runtimeconfig.dev.json
+bin/Debug/net5.0/SimplePrimeSieve.runtimeconfig.json
+bin/Debug/net5.0/ref/SimplePrimeSieve.dll
+.vscode/launch.json
+.vscode/tasks.json
